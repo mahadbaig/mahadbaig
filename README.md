@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahad Baig</h1>
 <h3 align="center">A passionate developer & UX designer learning about Web 3</h3>
 
-<p align="left"> <a href="https://twitter.com/mirzamahad_1" target="blank"><img src="https://img.shields.io/twitter/follow/mirzamahad_1?logo=twitter&style=for-the-badge" alt="mirzamahad_1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mirza_mahad_1" target="blank"><img src="https://img.shields.io/twitter/follow/mirzamahad_1?logo=twitter&style=for-the-badge" alt="mirzamahad_1" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
