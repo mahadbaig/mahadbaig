@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahad Baig</h1>
 <h3 align="center">A passionate developer & UX designer learning about Web 3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadbaig" alt="mahadbaig" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mirza_mahad_1" target="blank"><img src="https://img.shields.io/twitter/follow/mirza_mahad_1?logo=twitter&style=for-the-badge" alt="mirza_mahad_1" /></a> </p>
 
