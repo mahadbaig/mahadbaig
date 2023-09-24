@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript, React, Next.js**
 
-- 📝 I seldom write articles on [https://dev.to/mahadbaig](https://dev.to/mahadbaig)
+- 📝 I seldom write articles on [Medium](https://medium.com/@mahadbaig)
 
 - 💬 Ask me about **UX Design, Javascript, Web 3**
 
